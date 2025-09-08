@@ -1,5 +1,5 @@
 # OmewEmohpse
-I analyzed the pinout for the wemo mini so I could install a esp32-c3 with esphome. 
+I analyzed the pinout for the wemo mini so I could install a [esp32-c3](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/) with esphome. 
 
 ![Esphomed Wemo](Images/TopView.jpg)
 
